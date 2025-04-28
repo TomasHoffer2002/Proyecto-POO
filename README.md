@@ -1,2 +1,2 @@
-# Pyoyecto-POO
+# Proyecto-POO
 Juegos Pong y Lemmings
